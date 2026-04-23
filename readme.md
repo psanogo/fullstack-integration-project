@@ -4,11 +4,22 @@
 https://github.com/psanogo/fullstack-integration-project
 
 ## Project Overview
-This project focuses on building and deploying a full‑stack web application by integrating frontend and backend components into a unified system. The goal is to demonstrate practical experience with application structure, service integration, and deployment readiness.
+This project demonstrates the design, integration, and deployment of a full‑stack web application. It focuses on connecting frontend and backend layers, managing data flow through APIs, and preparing the application for deployment using modern development practices.
 
-## Reflective Summary: Use of Copilot in the Development Process
-I used GitHub Copilot throughout this project to support the development of both frontend and backend components. Copilot assisted with generating boilerplate code, creating API routes, and structuring reusable components, which helped streamline the development workflow.
+## Tech Stack
+- **Frontend:** React (component‑based UI development)
+- **Backend:** Node.js with Express *and/or* Flask (RESTful API development)
+- **Database:** MongoDB or relational database (data persistence)
+- **Version Control:** Git and GitHub
+- **AI Assistance Tool:** GitHub Copilot
+- **Deployment:** Local and cloud‑ready configuration using environment variables
 
-Copilot was especially useful for debugging syntax errors and maintaining consistent coding patterns across the application. Its suggestions were always reviewed, refined, and validated to ensure correctness and alignment with project requirements.
+## Reflective Summary: Use of GitHub Copilot in the Development Process
 
-Overall, Copilot served as a productivity and learning aid rather than a replacement for decision‑making. It improved efficiency while helping reinforce best practices in full‑stack development and integration.
+In alignment with the Coursera GitHub Copilot course rubric, GitHub Copilot was used as a development support tool to improve efficiency, code quality, and learning throughout this project. Copilot assisted with generating boilerplate code, scaffolding frontend components, implementing backend API routes, and suggesting database interaction patterns.
+
+From a technical perspective, Copilot helped accelerate repetitive tasks and reduce syntactic errors, allowing me to focus on system integration, application logic, and debugging. During development and deployment preparation, it also supported configuration tasks and error interpretation.
+
+All Copilot‑generated suggestions were reviewed, tested, and modified as needed. I maintained full responsibility for architectural decisions, business logic, and final implementation. This reflects responsible and ethical use of AI, as required by the course guidelines.
+
+Overall, GitHub Copilot enhanced productivity while reinforcing my understanding of full‑stack development concepts. It served as a collaborative aid that supported learning rather than replacing critical thinking or problem‑solving.
